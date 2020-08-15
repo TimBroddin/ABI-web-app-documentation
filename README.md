@@ -7,8 +7,7 @@ See the documentation for more information.
 
 ## Dependencies
 
-See requirements.txt for python dependencies.
-The python module named parameterized is used for testing.
+See requirements.txt for dependencies.
 
 ## Accessing documentation
 
