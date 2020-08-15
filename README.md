@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/abi-web-app-documentation/badge/?version=latest)](http://abi-web-app-documentation.readthedocs.io/?badge=latest)
+
 # Web app documentation
 
 Provides documentation for building modular apps using Vue, Vuetify, and threejs.
