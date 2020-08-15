@@ -12,7 +12,7 @@ The python module named parameterized is used for testing.
 
 ## Accessing documentation
 
-The documentation is hosted on Readthedocs - add link
+The documentation is hosted on Readthedocs - https://abi-web-app-documentation.readthedocs.io/en/latest/index.html
 
 ## Building documentation locally
 
