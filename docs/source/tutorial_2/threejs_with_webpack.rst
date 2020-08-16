@@ -1,5 +1,5 @@
-Tutorial 1 - Building threejs apps with Webpack
-===============================================
+Tutorial 2 - Three.js with Webpack
+==================================
 
 Overview
 --------
