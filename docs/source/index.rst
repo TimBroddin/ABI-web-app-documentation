@@ -13,10 +13,8 @@ This documentation provides a guide to creating modular web apps using Vue, Vuet
    :caption: Contents:
 
    introduction
-   tutorial_1/threejs_with_pure_javascript
-   tutorial_2/threejs_with_webpack
-   tutorial_3/threejs_with_vue
-   tutorial_4/threejs_with_vuetify
+   vue/vue
+   three/three
    contributors
 
 Indices and tables
